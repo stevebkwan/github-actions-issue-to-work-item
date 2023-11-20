@@ -8,15 +8,15 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/danhellem/github-actions-issue-to-work-item.git"
+		"url": "git+https://github.com/stevebkwan/github-actions-issue-to-work-item.git"
 	},
 	"keywords": [],
 	"author": "",
 	"license": "GPL-3.0",
 	"bugs": {
-		"url": "https://github.com/danhellem/github-actions-issue-to-work-item/issues"
+		"url": "https://github.com/stevebkwan/github-actions-issue-to-work-item/issues"
 	},
-	"homepage": "https://github.com/danhellem/github-actions-issue-to-work-item#readme",
+	"homepage": "https://github.com/stevebkwan/github-actions-issue-to-work-item#readme",
 	"dependencies": {
 		"@actions/core": "^1.9.1",
 		"@actions/github": "^2.1.1",
